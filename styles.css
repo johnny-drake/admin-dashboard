@@ -315,8 +315,9 @@ a:hover {
 
 .extras {
     display:grid;
-    grid-template-rows: 7vh 29vh 7vh 30vh;
+    grid-template-rows: 7vh 29vh 8vh 30vh;
     margin: 10px;
+    margin-top: 14px;
     margin-left:0px;
     gap:10px;
 }
@@ -392,7 +393,7 @@ a:hover {
     height: auto;
     border-radius: 50px;
     border: 2px solid black;
-    margin-top: 10px;
+    margin-top: 15px;
     display: grid;
     align-items: center;
 }
